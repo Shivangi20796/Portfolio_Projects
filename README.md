@@ -1,2 +1,2 @@
 # Portfolio_Projects
-All Analytics Project
+All Analytics Projects
